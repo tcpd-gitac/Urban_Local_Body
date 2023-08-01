@@ -7,7 +7,7 @@ this repository contains following files:
 2. tcpd_casi_ulb_codebook_v1.1.pdf : documentation and detailed description of variables in the dataset.
 
 
-This dataset consists of information on the Urban Local Body Elections for 8 Indian States - Bihar, Kerala, Madhya Pradesh, Maharashtra, Rajasthan, Telangana, West Bengal, and Uttar Pradesh. This dataset has been built through the collaborative efforts of the Trivedi Centre for Political Data, Ashoka University, and the Center for the Advanced Study of India, University of Pennsylvania.
+This dataset consists of information on the Urban Local Body Elections for 1 Indian States - Delhi. This dataset has been built through the collaborative efforts of the Trivedi Centre for Political Data, Ashoka University, and the Center for the Advanced Study of India, University of Pennsylvania.
 
 <b>Terms and conditions</b> <br />
 The Urban Local Body dataset consists of election data pertaining to Urban Local Bodies from 2008 to 2021. This dataset and codebook is part of the TCPD repository which contains our work in progress. Please ensure you use the latest version of the data and documentation. For questions, please email us at tcpd-contact@ashoka.edu.in. Users are free to download, display or include the data in other products for non-commercial purposes at no cost subject to the following limitations: <br />
